@@ -18,6 +18,6 @@ Database: MySQL (Relational data storage)
 Frontend: HTML5, CSS3, JavaScript (Bootstrap for responsive design)
 
 🌐 Live Demo
-Experience the system in action here: 👉 View Live Project - Ama Hotel
+Experience the system in action here: 👉 View Live Project - https://amahotel.infinityfreeapp.com/
 
 Built with a focus on efficiency, security, and user experience.
